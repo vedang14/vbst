@@ -1,0 +1,75 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Vedang Bhardwaj"
+theme= "prologue"
+[params]
+  name = "      Vedang Bhardwaj"
+  description = "Full time Student part time Stack Developer"
+  copyright = "Vedang Bhardwaj"
+
+[[params.social]]
+  medium = "Gmail"
+  icon = "envelope"
+  link=  "mailto:vedang.bhardwaj14@gmail.com"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/vedang.bhardwaj"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/vedang14"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/vedang-bhardwaj-13b22a142/"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "https://www.instagram.com/vedang.bhardwaj/"
+
+# Portfolio column one
+
+[[params.portfolio1]]
+  title = "tic-toe game"
+  alt = ""
+  source = "img/pic02.jpg"
+  url = "https://github.com/vedang14"
+
+[[params.portfolio1]]
+  title = "Rhoncus Semper"
+  alt = ""
+  source = "img/pic03.jpg"
+  url = "#"
+
+# Portfolio column two
+
+[[params.portfolio2]]
+  title = "Freindship calulator App"
+  alt = ""
+  source = "img/pic04.jpg"
+  url = "#"
+
+[[params.portfolio2]]
+  title = "Natoque Vitae"
+  alt = ""
+  source = "img/pic05.jpg"
+  url = "#"
+
+# Portfolio column 3
+
+[[params.portfolio3]]
+  title = "Dolor Penatibus"
+  alt = ""
+  source = "img/pic06.jpg"
+  url = "#"
+
+[[params.portfolio3]]
+  title = "Orci Convallis"
+  alt = ""
+  source = "img/pic07.jpg"
+  url = "#"
